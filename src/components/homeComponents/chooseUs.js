@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { FaToolbox, FaLightbulb, FaHandsHelping } from "react-icons/fa";
-import WhyImage from "../../assets/images/why.jpeg";
+import WhyImage from "../../assets/images/choose.jpeg";
 import "../../styles/chooseUs.css";
 
 const ChooseUs = () => {
