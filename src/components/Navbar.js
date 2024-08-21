@@ -23,14 +23,13 @@ const Navbar = () => {
     <nav className="bg-orange-700 text-white">
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         <div className="text-2xl font-bold">
-          <a href="#" className="hover:text-gray-300">Cruzy Projects</a>
+          <a href="#" className="hover:text-gray-300">WeldPlumb Renovations</a>
         </div>
         <div className="hidden md:flex space-x-6">
           <a href="/" className={`nav-item ${isActive('/')}`}>Home</a>
-          <a href="#services" className={`nav-item ${isActive('/#services')}`}>Services</a>
-          <a href="#projects" className={`nav-item ${isActive('/#projects')}`}>Projects</a>
-          <a href="#testimonials" className={`nav-item ${isActive('/#testimonials')}`}>Testimonials</a>
-          <a href="#contact" className={`nav-item ${isActive('/#contact')}`}>Contact</a>
+          <a href="/services" className={`nav-item ${isActive('/services')}`}>Services</a>
+          <a href="/projects" className={`nav-item ${isActive('/projects')}`}>Projects</a>
+          <a href="/contact" className={`nav-item ${isActive('/contact')}`}>Contact</a>
         </div>
         <div className="md:hidden">
           <button onClick={toggleMenu} className="focus:outline-none">
