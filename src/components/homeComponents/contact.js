@@ -36,11 +36,11 @@ const ContactUs = () => {
                             </div>
                             <div className="flex items-center">
                                 <svg className="w-6 h-6 mr-4 text-olive-300" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-1.45 0-2.8-.38-4-1.03L14.97 10c.66 1.2 1.03 2.55 1.03 4 0 3.31-2.69 6-6 6zm-3.69-4.47c-.14-.56-.31-1.1-.52-1.6L16.31 7.97c.59.58 1.03 1.29 1.22 2.08L8.31 15.53z"/></svg>
-                                <p>(123) 456-7890</p>
+                                <p>+27699403909</p>
                             </div>
                             <div className="flex items-center">
                                 <svg className="w-6 h-6 mr-4 text-olive-300" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3v12l8 4V9l-8-4z"/></svg>
-                                <p>info@company.com</p>
+                                <p>info@cruzyprojects.com</p>
                             </div>
                         </div>
                     </div>

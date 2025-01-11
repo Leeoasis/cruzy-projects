@@ -56,8 +56,8 @@ const ContactPage = () => {
                     <div className="contact-details w-full lg:w-1/2 shadow-lg rounded-lg p-8 bg-white animate-slow-float">
                         <h2 className="text-3xl font-semibold mb-6">Contact Details</h2>
                         <p className="mb-4"><strong>Address:</strong> 2 Settler's drive, Edgemead</p>
-                        <p className="mb-4"><strong>Phone:</strong> +27683880693</p>
-                        <p className="mb-4"><strong>Email:</strong> info@weldplumbrenovations.co.za</p>
+                        <p className="mb-4"><strong>Phone:</strong> +27299403909</p>
+                        <p className="mb-4"><strong>Email:</strong> info@cruzyprojects.co.za</p>
                         <div id="map" className="w-full h-64 rounded-lg mt-4">
                             {/* Embed Google Map */}
                             <iframe

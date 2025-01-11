@@ -10,8 +10,8 @@ const Footer = () => {
             <h5 className="text-xl font-bold mb-2">Cruzy Projects</h5>
             <p>© 2024 All rights reserved.</p>
             <p className="mt-2">2 Settler's drive, Edgemead</p>
-            <p>Phone: +27683880693</p>
-            <p>Email: info@weldplumbrenovations.co.za</p>
+            <p>Phone: +27699403909</p>
+            <p>Email: info@cruzyprojects.co.za</p>
           </div>
           <div className="mt-6 md:mt-0 text-center">
             <h5 className="text-xl font-bold mb-2">Quick Links</h5>
